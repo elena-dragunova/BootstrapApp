@@ -1,0 +1,7 @@
+@media (max-width: 34em) {
+    .navbar-default .navbar-nav > .active > a {
+        border-bottom:none;
+        border-left:0.45em solid #fff;
+        padding-left: 0.5em;
+    }
+}
